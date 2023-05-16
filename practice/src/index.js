@@ -25,6 +25,12 @@ const friends = [
     name: "Jason",
     skinColor: "Wheat",
   },
+  {
+    id: 4,
+    img: "https://i.ytimg.com/an_webp/V-hvjQOosIE/mqdefault_6s.webp?du=3000&sqp=CNa8jaMG&rs=AOn4CLCWd03cf3hVV-1XesKxogrN0wuj1w",
+    name: "Past Def",
+    skinColor: "Not Black",
+  },
 ];
 
 //Rules
