@@ -8,16 +8,19 @@ import "./index.css";
 
 const friends = [
   {
+    id: 1,
     img: "https://i.ytimg.com/an_webp/6jraQOeWOqM/mqdefault_6s.webp?du=3000&sqp=CN6IjaMG&rs=AOn4CLDEX16K3Xy6ENXWmO0XxbBv4QCKZA",
     name: "Martio",
     skinColor: "Black",
   },
   {
+    id: 2,
     img: "https://i.ytimg.com/an_webp/b6ozunDfahc/mqdefault_6s.webp?du=3000&sqp=CN6NjaMG&rs=AOn4CLBOZpYvFlLRjY71kRLoMXz4G-uZ5Q",
     name: "Defriantio",
     skinColor: "Brown",
   },
   {
+    id: 3,
     img: "https://i.ytimg.com/vi/sPL-GybO1cA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIDVrX6Q2oVHm5LbQa4UD4cRYcVQ",
     name: "Jason",
     skinColor: "Wheat",
@@ -34,28 +37,15 @@ const friends = [
 function FriendList() {
   return (
     <section className="friendlist">
-      <Friend
-        img={firstFriend.img}
-        name={firstFriend.name}
-        skinColor={firstFriend.skinColor}
-      ></Friend>
-
-      <Friend
-        img={secondFriend.img}
-        name={secondFriend.name}
-        skinColor={secondFriend.skinColor}
-      ></Friend>
-      <Friend
-        img={thirdFriend.img}
-        name={thirdFriend.name}
-        skinColor={thirdFriend.skinColor}
-      ></Friend>
+      {friends.map((friend) => {
+        return <Friend key={friend.id} friend={friend} />;
+      })}
     </section>
   );
 }
 
 const Friend = (props) => {
-  const { img, name, skinColor } = props;
+  const { img, name, skinColor } = props.friend;
   return (
     <article className="friend">
       <img src={img} alt="" />

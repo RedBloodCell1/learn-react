@@ -2,7 +2,7 @@ Hello guys, this is me. Yes i am back from (Hell?). What i mean by hell is procr
 
 Currently i have my thesis going on. But I realize something. Why can't i just do my thesis whilist studying. I got like so much free time a day and there is no reason to not study everyday. Its gonna be hard i know, but im sure i can do it. So lets just start and get into this.
 
-Day 1:
+Day 1: I dont remember
 
 Learning simple terminal command:
 
@@ -12,7 +12,7 @@ Learning simple terminal command:
 
 npx create-react-app {name} = to create react folder with everything you need already inside
 
-Day 2 (or 4/5/6?):
+Day 2 (or 4/5/6?): 0:00:00 - 2:59:04 (2 hours 33 minute of study)
 
 ## Small Diary
 
@@ -30,3 +30,5 @@ This literally strip off all of my fun stuff. I can't watch anything while eatin
 ## What I learned today
 
 For react to know that a function will be a component. REMEBER CAPITAL CASE ON FIRST LETTER
+
+I think thats enough for today, what i learned today? A lot and i can't remember it all i think but i get the gist of it. But i still dont understand something so im gonna try and watch the part of video which i dont understand tomorrow. See you later
