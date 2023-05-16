@@ -11,3 +11,22 @@ Learning simple terminal command:
 3. pwd = give path to current directory
 
 npx create-react-app {name} = to create react folder with everything you need already inside
+
+Day 2 (or 4/5/6?):
+
+## Small Diary
+
+Im detoxing myself. When i said i will learn again everyday. Did i do it? Well as u can see, the answer is... not suprising "NO". Why you might asked? Do i do my thesis? Do i do something productive? The answer is always the same. I got no reason to not study. So i wanna get out of this situation and start detoxing for idk how long but i think im gonna detox for 2 weeks and even more depends on the situation.
+
+What can't i do?
+
+1. Play games (Besides Osu after doing my work). I know you guys might think that im half assing this thing but i don't really wanna talk about this to much. But im 100% serious. This choice is made after 3 hours of talking with my friend.
+2. Watch Youtube for entertainment / Youtube shorts or the other same type of entertainment such as tiktok, reels, etc.
+3. Watch anime and read manga / manhwa.
+4. No you know what i mean.
+
+This literally strip off all of my fun stuff. I can't watch anything while eating. I can't do anything entertaining. I really need this because i feel like all of that fun stuff needed to be removed to enhance my self control over these things. I want to be able to do this until i can feel satisfied without these fun stuff and focus on my life. So im gonna start studying now.
+
+## What I learned today
+
+For react to know that a function will be a component. REMEBER CAPITAL CASE ON FIRST LETTER
