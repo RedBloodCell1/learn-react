@@ -33,7 +33,7 @@ For react to know that a function will be a component. REMEBER CAPITAL CASE ON F
 
 I think thats enough for today, what i learned today? A lot and i can't remember it all i think but i get the gist of it. But i still dont understand something so im gonna try and watch the part of video which i dont understand tomorrow. See you later
 
-Day 3: 40 minutes of study
+Day 3: 40 minutes of study (2:44:29)
 
 Today, im going to understand what i write yesterday and im gonna write it here. So feel free to correct me if im wrong because i still dont understand the connection between the props thingies.
 
