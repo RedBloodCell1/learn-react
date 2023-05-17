@@ -32,3 +32,13 @@ This literally strip off all of my fun stuff. I can't watch anything while eatin
 For react to know that a function will be a component. REMEBER CAPITAL CASE ON FIRST LETTER
 
 I think thats enough for today, what i learned today? A lot and i can't remember it all i think but i get the gist of it. But i still dont understand something so im gonna try and watch the part of video which i dont understand tomorrow. See you later
+
+Day 3: 40 minutes of study
+
+Today, im going to understand what i write yesterday and im gonna write it here. So feel free to correct me if im wrong because i still dont understand the connection between the props thingies.
+
+First of all, i have Friend component, And inside the parameter we can pass "props". props is an object???. Yes now props is an object. So at the FriendList function, if i write <Friend number = "1"/> Then the props will have parameter of number with value of 1. The video called this "number" a property then so be it.
+
+So the next is deconstructing. From what i know, the props will store multiple property, and with desconstructing, i can simply seperate those things using const {bla, bla2, bla3} = props. So bla will contains the value of bla written in the Friend in Friendlist. We can also destructured staight in the parameter, so just pas the bla inside the Friend function parameter.
+
+So then, using map method, we can seperate the object that has a keys inside into seperate things.
