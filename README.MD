@@ -42,3 +42,5 @@ First of all, i have Friend component, And inside the parameter we can pass "pro
 So the next is deconstructing. From what i know, the props will store multiple property, and with desconstructing, i can simply seperate those things using const {bla, bla2, bla3} = props. So bla will contains the value of bla written in the Friend in Friendlist. We can also destructured staight in the parameter, so just pas the bla inside the Friend function parameter.
 
 So then, using map method, we can seperate the object that has a keys inside into seperate things.
+
+Day 4/5: I will not be here for a while. I will do my thesis now. I have been procrastinating and i am not disciplined enough. Im still detoxing. Its been 5 days without anime and other stuff. Im doing pretty good and bad. I need to do my thesis really. See you when i see you. I promise you guys im not gonna be gone for long
