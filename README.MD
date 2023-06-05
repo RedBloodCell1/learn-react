@@ -42,3 +42,20 @@ First of all, i have Friend component, And inside the parameter we can pass "pro
 So the next is deconstructing. From what i know, the props will store multiple property, and with desconstructing, i can simply seperate those things using const {bla, bla2, bla3} = props. So bla will contains the value of bla written in the Friend in Friendlist. We can also destructured staight in the parameter, so just pas the bla inside the Friend function parameter.
 
 So then, using map method, we can seperate the object that has a keys inside into seperate things.
+
+// Rules
+// return single element
+// fragment <React.fragment> / section / div
+// camel case for html attribute
+// className instead of class
+// close every element
+
+---
+
+Back to day 1: 3:23:43 (1 Hours 36 Minute study)
+
+Its 10:21 now. Im going to study now. First i need to review first.
+
+Its 14:26 now. I just finished reviewing things. It took long because i gotta do some other important stuff. But now im back to the part where i left before and i already understand maybe 98% of the material. Ill continue.
+
+Its 16:33 now, I know i just study for a while, i guess studying in my friend's house is not the most efficient thing to do. Well see you guys tomorrow. Oh about what new things i learned today. Its about event, simply when we click a button or hover our mouse into the thingies, it just do something. And i also learn import export which is pretty straightforward. See you tomorrow.
