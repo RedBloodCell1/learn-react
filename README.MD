@@ -43,6 +43,8 @@ So the next is deconstructing. From what i know, the props will store multiple p
 
 So then, using map method, we can seperate the object that has a keys inside into seperate things.
 
+Day 4/5: I will not be here for a while. I will do my thesis now. I have been procrastinating and i am not disciplined enough. Im still detoxing. Its been 5 days without anime and other stuff. Im doing pretty good and bad. I need to do my thesis really. See you when i see you. I promise you guys im not gonna be gone for long
+
 // Rules
 // return single element
 // fragment <React.fragment> / section / div
@@ -59,4 +61,3 @@ Its 10:21 now. Im going to study now. First i need to review first.
 Its 14:26 now. I just finished reviewing things. It took long because i gotta do some other important stuff. But now im back to the part where i left before and i already understand maybe 98% of the material. Ill continue.
 
 Its 16:33 now, I know i just study for a while, i guess studying in my friend's house is not the most efficient thing to do. Well see you guys tomorrow. Oh about what new things i learned today. Its about event, simply when we click a button or hover our mouse into the thingies, it just do something. And i also learn import export which is pretty straightforward. See you tomorrow.
-Day 4/5: I will not be here for a while. I will do my thesis now. I have been procrastinating and i am not disciplined enough. Im still detoxing. Its been 5 days without anime and other stuff. Im doing pretty good and bad. I need to do my thesis really. See you when i see you. I promise you guys im not gonna be gone for long
