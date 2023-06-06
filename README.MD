@@ -62,6 +62,8 @@ Its 14:26 now. I just finished reviewing things. It took long because i gotta do
 
 Its 16:33 now, I know i just study for a while, i guess studying in my friend's house is not the most efficient thing to do. Well see you guys tomorrow. Oh about what new things i learned today. Its about event, simply when we click a button or hover our mouse into the thingies, it just do something. And i also learn import export which is pretty straightforward. See you tomorrow.
 
-Day 2:
+Day 2: 3:23:43 - 4:04:48 (1 Hour 14 Minutes)
 
 its 14:19 now, im going to study now and focus.
+
+its 18:24 now. im going offline. Today i learn about event just the first part tho. I will study a lot more tomorrow.
