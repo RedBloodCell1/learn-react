@@ -61,3 +61,7 @@ Its 10:21 now. Im going to study now. First i need to review first.
 Its 14:26 now. I just finished reviewing things. It took long because i gotta do some other important stuff. But now im back to the part where i left before and i already understand maybe 98% of the material. Ill continue.
 
 Its 16:33 now, I know i just study for a while, i guess studying in my friend's house is not the most efficient thing to do. Well see you guys tomorrow. Oh about what new things i learned today. Its about event, simply when we click a button or hover our mouse into the thingies, it just do something. And i also learn import export which is pretty straightforward. See you tomorrow.
+
+Day 2:
+
+its 14:19 now, im going to study now and focus.
