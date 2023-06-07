@@ -3,7 +3,7 @@ export const friends = [
     id: 1,
     img: "https://i.ytimg.com/an_webp/Q02D3f6EpIc/mqdefault_6s.webp?du=3000&sqp=CMCg9aMG&rs=AOn4CLCWlcCVb6WMd8rnob90TTqztSAsUQ",
     name: "Martio",
-    skinColor: "Black",
+    skinColor: "Brown - Dark",
   },
   {
     id: 2,
@@ -21,6 +21,6 @@ export const friends = [
     id: 4,
     img: "https://i.ytimg.com/an_webp/V-hvjQOosIE/mqdefault_6s.webp?du=3000&sqp=CNiN9aMG&rs=AOn4CLCWg1Hu9wkqOFdtTwZJ539kGH127g",
     name: "Past Def",
-    skinColor: "Not Black",
+    skinColor: "Not Brown",
   },
 ];
