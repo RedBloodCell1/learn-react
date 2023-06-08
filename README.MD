@@ -73,3 +73,9 @@ Day 3: 4:04:48 - 4:47:46 (3 Hours 2 minutes)
 Its 13:32 now, Im going to study now until 16:00, I will focus. See you later
 
 Its 17:53 now, I already finish the first part which is useState in react. I also make my own simple project which is kinda so so. Well whats done is done, I think i understand react more now, See you guys tomorrow
+
+Day 4: 4:47:46 - 5:36:46 (1 hour 16 minute study)
+
+Its 13:20 now and my body feels weak because i think i slept to much, Im gonna study now. I actually wake up quite early but i slept again bruh. Gonna focus now.
+
+Its 16:20 now, i need to go with my friend for a bit. See you guys later.
