@@ -79,3 +79,9 @@ Day 4: 4:47:46 - 5:36:46 (1 hour 16 minute study)
 Its 13:20 now and my body feels weak because i think i slept to much, Im gonna study now. I actually wake up quite early but i slept again bruh. Gonna focus now.
 
 Its 16:20 now, i need to go with my friend for a bit. See you guys later.
+
+Day 8: 5:36:46 - 6:20:18 (2 hours 30 minute study)
+
+Its 13:18 now, gonna focus now. If you guys wanna know what happen for 3 days, i did my thesis ppt and take a break at saturday and sunday. So yeah.
+
+Its 16:41 now. Today i learn about multiple return and short circuit which is the || && ? thingies and also why it is important to use cleanup. Thats all for today. See you tomorrow.
