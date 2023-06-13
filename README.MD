@@ -85,3 +85,9 @@ Day 8: 5:36:46 - 6:20:18 (2 hours 30 minute study)
 Its 13:18 now, gonna focus now. If you guys wanna know what happen for 3 days, i did my thesis ppt and take a break at saturday and sunday. So yeah.
 
 Its 16:41 now. Today i learn about multiple return and short circuit which is the || && ? thingies and also why it is important to use cleanup. Thats all for today. See you tomorrow.
+
+Day 9: 6:20:18 - 6:50:40 (40 minutes of study)
+
+Its 14:32 now, gonna focus now.
+
+Its 15:32 now. Im sick, i need to rest. see you later
