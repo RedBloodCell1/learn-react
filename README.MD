@@ -95,3 +95,5 @@ Its 15:32 now. Im sick, i need to rest. see you later
 Day 10: 6:50:40 - 7:06:26 (24 minutes of study)
 
 Its 20:22 now, im sick and i cant study. NAHH THAT JUST A REASON TO NOT STUDY. I will study now even if its only a little. Im gonna finish one part.
+
+Its 20:48 now, im gonna stop and eat. See you later.
