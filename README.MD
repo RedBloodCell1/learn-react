@@ -102,6 +102,10 @@ Day 11:
 
 Its 9:01 now, im still sick, but its only on my throat and nose so i guess can study. So i will study now. See you guys later.
 
-Day 15:
+Day 15: 7:06:26 - 8:00:58 (59 minutes of study)
 
 its 9:21 now, i have my lecture that i need to present on. I will study after that. But i think for today i will study accounting and finish my ppt so i wont be learning react today. See you later.
+
+But nevermind, after i finish my study, i will learn react a bit and then do my ppt. and only after that i will study accounting.
+
+its 14:43 now, I finished 1 part which is reducer. I really like reducer because im that type of guy who really like my code to be readable by everyone in the team. So yeah reducer is kinda like that where u can setup a useState but not making a lot of useState in one place but using reducer. see you next time, im gonna study accounting now.
