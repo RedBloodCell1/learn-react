@@ -96,4 +96,12 @@ Day 10: 6:50:40 - 7:06:26 (24 minutes of study)
 
 Its 20:22 now, im sick and i cant study. NAHH THAT JUST A REASON TO NOT STUDY. I will study now even if its only a little. Im gonna finish one part.
 
-Its 20:48 now, im gonna stop and eat. See you later.
+Its 20:48 now, im gonna stop and eat. See you later. (I learned about multiple event)
+
+Day 11:
+
+Its 9:01 now, im still sick, but its only on my throat and nose so i guess can study. So i will study now. See you guys later.
+
+Day 15:
+
+its 9:21 now, i have my lecture that i need to present on. I will study after that. But i think for today i will study accounting and finish my ppt so i wont be learning react today. See you later.
