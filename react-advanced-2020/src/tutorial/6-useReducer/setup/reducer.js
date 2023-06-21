@@ -31,6 +31,8 @@ export const reducer = (state, action) => {
     return {
       ...state,
       people: newPeople,
+      isModalOpen: true,
+      modalContent: "Item Removed",
     };
   }
 

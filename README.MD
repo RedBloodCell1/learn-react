@@ -109,3 +109,7 @@ its 9:21 now, i have my lecture that i need to present on. I will study after th
 But nevermind, after i finish my study, i will learn react a bit and then do my ppt. and only after that i will study accounting.
 
 its 14:43 now, I finished 1 part which is reducer. I really like reducer because im that type of guy who really like my code to be readable by everyone in the team. So yeah reducer is kinda like that where u can setup a useState but not making a lot of useState in one place but using reducer. see you next time, im gonna study accounting now.
+
+Day 17: (57 minutes of study)
+
+Its 9:53. Today will be the day i finish this tutorial. Its been to long already. Okay i havent finish the tutorial but i will try to finish it today. I am learning accounting first.
