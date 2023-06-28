@@ -117,3 +117,7 @@ Its 9:53. Today will be the day i finish this tutorial. Its been to long already
 Day 23: 8:26:20 - 9:06:50 (42 minutes of study)
 
 Its 15:39 now. Okay i really need to finish this no??? After i finish this, im gonna focus on solving leetcode problem. Its 16:21 now and im pretty sleepy. I need to go workout after this so im gonna stop here. I will SURELY finish this either today or tomorrow. See you guys
+
+Day 24:
+
+Its 23:57 now. I know its late but i will finish it. Count it as today, i promise to myself ill finish it so ill finish it. See you
